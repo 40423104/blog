@@ -12,7 +12,7 @@
 <vnodes>
 <v t="amd.20160329124757.1"><vh>跳出 users 目錄</vh></v>
 <v t="amd.20160329124554.2" a="E"><vh>@path ./../</vh>
-<v t="amd.20160329164739.1"><vh>假如要送到 gh-pages 分支, 使用下列按鈕</vh>
+<v t="amd.20160329164739.1" a="E"><vh>假如要送到 gh-pages 分支, 使用下列按鈕</vh>
 <v t="amd.20160329164739.2"><vh>@button gh-pages pelican</vh></v>
 </v>
 <v t="amd.20160329163719.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>

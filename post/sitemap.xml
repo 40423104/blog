@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://cad-lab.github.io/manual/post/</loc>
-<lastmod>2016-05-06T11:49:20-00:00</lastmod>
+<lastmod>2016-05-06T12:02:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/manual/post/archives.html</loc>
-<lastmod>2016-05-06T11:49:20-00:00</lastmod>
+<lastmod>2016-05-06T12:02:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/manual/post/tags.html</loc>
-<lastmod>2016-05-06T11:49:20-00:00</lastmod>
+<lastmod>2016-05-06T12:02:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://cad-lab.github.io/manual/post/categories.html</loc>
-<lastmod>2016-05-06T11:49:20-00:00</lastmod>
+<lastmod>2016-05-06T12:02:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -53,13 +53,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://cad-lab.github.io/manual/post/tag/mcad.html</loc>
-<lastmod>2016-05-06T10:50:12+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://cad-lab.github.io/manual/post/tag/cadlab.html</loc>
 <lastmod>2016-05-06T10:50:12+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -68,6 +61,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://cad-lab.github.io/manual/post/tag/manual.html</loc>
+<lastmod>2016-05-06T10:50:12+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://cad-lab.github.io/manual/post/tag/mcad.html</loc>
 <lastmod>2016-05-06T10:50:12+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
